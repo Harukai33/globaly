@@ -1,0 +1,149 @@
+# Privacy Policy
+
+**Last updated: September 16, 2026**
+
+Globaly ("Globaly", "we", "our", or "the Service") is a Discord bot designed to connect communities through shared global chat channels.
+
+This Privacy Policy explains what information Globaly may collect, how it is used, and how we protect it when you interact with the bot.
+
+## 1. Information We Collect
+
+When you use Globaly, we may process information necessary for the Service to operate, including:
+
+* Discord User ID
+* Discord Server ID
+* Discord Channel ID
+* Discord message IDs
+* Display names and usernames
+* Messages sent through Globaly channels
+* Moderation actions and sanctions
+* Server configuration settings
+* Global mute or ban information
+* Technical and administrative logs
+
+Globaly does not request or require your Discord password.
+
+## 2. Global Messages
+
+Messages sent in a channel connected to Globaly may be transmitted to other participating Discord servers.
+
+Globaly primarily distributes these messages using Discord Webhooks. As a result, your username, avatar, message content, and other information necessary to identify the message may appear in other connected servers.
+
+You should not send confidential, private, personally identifiable, or sensitive information through Globaly.
+
+## 3. Message Storage
+
+Globaly may temporarily store messages and related metadata for operational purposes, including:
+
+* Message editing
+* Message deletion
+* Synchronization between servers
+* Moderation
+* Abuse prevention
+* Security investigations
+
+Where temporary message storage is enabled, message content may be automatically deleted after the configured retention period.
+
+Certain moderation and security records may be retained for longer when necessary to protect the Service and participating communities.
+
+## 4. Logs
+
+Globaly may generate logs containing information about events such as:
+
+* Messages sent through Globaly
+* Deleted or edited messages
+* Moderation actions
+* Global bans and mutes
+* Server configuration changes
+* Administrative actions
+* Errors and security events
+
+These logs may be sent to private administrative channels or Webhooks controlled by the Globaly team.
+
+Logs are used to maintain security, investigate abuse, troubleshoot problems, and enforce our Terms of Service.
+
+## 5. Server Configuration
+
+Server administrators may configure features such as:
+
+* Global chat channels
+* Allowed links
+* Moderation settings
+* Logging channels
+* Webhooks
+* Global announcements
+* Additional Globaly features
+
+These settings may be stored for as long as the server continues using Globaly.
+
+## 6. Links and Attachments
+
+Globaly may restrict links, images, videos, files, or other attachments in global channels.
+
+Links may be automatically blocked unless they have been explicitly allowed by Globaly or the participating server's configuration.
+
+## 7. How We Use Information
+
+Information processed by Globaly may be used to:
+
+* Provide global chat functionality
+* Synchronize messages between servers
+* Detect spam and abuse
+* Enforce moderation rules
+* Investigate reports
+* Protect Globaly and its users
+* Maintain server configurations
+* Improve reliability and performance
+* Prevent misuse or attempts to bypass restrictions
+
+We do not sell personal information.
+
+## 8. Sharing of Information
+
+Because Globaly is a global communication service, information contained in messages may be shared with other servers participating in the same Globaly network.
+
+Information may also be accessible to authorized Globaly administrators and moderators when necessary for moderation, support, security, or abuse investigations.
+
+We may disclose information when required by applicable law or when reasonably necessary to protect users, the Service, or third parties.
+
+## 9. Discord
+
+Globaly operates using Discord and its infrastructure.
+
+Your use of Discord is also subject to Discord's own Terms of Service and Privacy Policy. Globaly is not affiliated with or endorsed by Discord Inc. unless explicitly stated otherwise.
+
+## 10. Data Security
+
+We take reasonable measures to limit unauthorized access to Globaly systems and administrative information.
+
+However, no online system can guarantee absolute security. Users should avoid sharing passwords, authentication tokens, payment information, private documents, or other sensitive information through global chats.
+
+## 11. Data Removal
+
+Server administrators may remove Globaly from their Discord server at any time.
+
+Where applicable, users or server administrators may contact the Globaly team to request information about stored data or request deletion of eligible data.
+
+Some information may be retained when necessary for:
+
+* Security
+* Fraud prevention
+* Abuse prevention
+* Enforcement of sanctions
+* Legal obligations
+
+## 12. Children's Privacy
+
+Globaly is intended for users who are permitted to use Discord under Discord's applicable age requirements.
+
+Globaly does not knowingly attempt to collect personal information from users who are not permitted to use Discord.
+
+## 13. Changes to This Policy
+
+This Privacy Policy may be updated when Globaly introduces new features, changes how information is processed, or when legal or security requirements change.
+
+Continued use of Globaly after an updated policy becomes effective constitutes acceptance of the revised policy.
+
+## 14. Contact
+
+Questions, privacy requests, or concerns regarding this Privacy Policy can be submitted through the official Globaly support server or other official Globaly contact channels.
