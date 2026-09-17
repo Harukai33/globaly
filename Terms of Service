@@ -1,0 +1,214 @@
+# Terms of Service
+
+**Last updated: September 16, 2026**
+
+These Terms of Service ("Terms") govern your use of Globaly, a Discord bot that connects participating communities through shared global communication channels.
+
+By using Globaly, adding the bot to a server, configuring the Service, or sending messages through a Globaly channel, you agree to these Terms.
+
+## 1. Eligibility
+
+You must comply with Discord's Terms of Service, Community Guidelines, and applicable age requirements while using Globaly.
+
+If you are configuring Globaly for a Discord server, you must have sufficient permission to manage or configure that server.
+
+## 2. Global Communication
+
+Globaly allows messages to be distributed between multiple Discord servers.
+
+When sending a message through Globaly, you acknowledge that your message may appear in communities that you do not own or control.
+
+Globaly may use Discord Webhooks to reproduce messages across participating servers.
+
+## 3. Acceptable Use
+
+You may not use Globaly to send, distribute, encourage, or facilitate:
+
+* Spam or repeated disruptive messages
+* Harassment or targeted abuse
+* Threats or intimidation
+* Illegal content
+* Malicious links
+* Malware or harmful files
+* Phishing or credential theft
+* Scams or fraud
+* Attempts to evade moderation
+* Content intended to disrupt Globaly's infrastructure
+* Unauthorized advertising
+* Mass mentions or notification abuse
+* Personal or confidential information belonging to another person without authorization
+* Content prohibited by Discord's rules
+
+Additional restrictions may be applied through Globaly's moderation systems.
+
+## 4. Links, Files and Media
+
+Globaly may prohibit or restrict:
+
+* URLs
+* Images
+* Videos
+* Files
+* Embeds
+* Attachments
+* Other external content
+
+Links may only be permitted when they are included in an approved allowlist or otherwise authorized by Globaly.
+
+Attempting to bypass these restrictions may result in moderation action.
+
+## 5. Moderation
+
+Globaly may use automated and manual moderation systems.
+
+Possible actions include:
+
+* Warning a user
+* Deleting messages
+* Temporarily muting users
+* Globally muting users
+* Temporarily banning users
+* Permanently banning users from Globaly
+* Restricting a server
+* Removing a server from the Globaly network
+
+Moderation actions may apply across all servers participating in Globaly.
+
+Local Discord server moderators may also apply their own moderation rules independently of Globaly.
+
+## 6. Global Mutes and Bans
+
+A Globaly sanction may prevent a user from communicating through Globaly across multiple participating servers.
+
+Attempts to evade a global sanction through alternate accounts, servers, Webhooks, bots, or other methods may result in additional restrictions.
+
+## 7. Server Responsibilities
+
+Server owners and administrators are responsible for:
+
+* Configuring Globaly correctly
+* Providing the bot with required permissions
+* Protecting administrative access
+* Ensuring Globaly is used appropriately in their community
+* Following Discord's rules
+* Reviewing Globaly's policies when necessary
+
+Globaly is not responsible for actions taken independently by moderators of third-party Discord servers.
+
+## 8. Webhooks
+
+Globaly may create, manage, or use Discord Webhooks to deliver messages between servers.
+
+Removing, modifying, abusing, or intentionally interfering with Webhooks required by Globaly may cause parts of the Service to stop functioning.
+
+Users may not impersonate Globaly Webhooks or manipulate Globaly systems to impersonate other users.
+
+## 9. Global Announcements
+
+Globaly may occasionally distribute service-related announcements across connected servers.
+
+These may include:
+
+* Maintenance notices
+* Security notices
+* Important changes
+* New features
+* Service updates
+
+Promotional global announcements, where applicable, may be subject to separate configuration or subscription features.
+
+## 10. Globaly Plus, Globaly Pro and Paid Features
+
+Globaly may offer free and paid functionality, including services such as Globaly Plus, Globaly Pro, Private Networking, or other premium products.
+
+Paid features may have additional rules, pricing, limitations, and conditions presented at the time of purchase.
+
+Features, limits, and pricing may change over time.
+
+Unless required by applicable law or explicitly stated otherwise, access to paid features does not exempt users or servers from moderation or these Terms.
+
+## 11. Service Availability
+
+Globaly is provided on an "as available" basis.
+
+We do not guarantee uninterrupted operation.
+
+The Service may become temporarily unavailable because of:
+
+* Discord outages
+* Hosting failures
+* API limitations
+* Maintenance
+* Security incidents
+* Software errors
+* Infrastructure changes
+* Events outside our reasonable control
+
+## 12. Abuse of the Service
+
+You may not attempt to:
+
+* Exploit vulnerabilities in Globaly
+* Gain unauthorized administrative access
+* Access private Globaly systems
+* Circumvent rate limits
+* Manipulate moderation systems
+* Generate artificial traffic
+* Overload the Service
+* Reverse engineer private infrastructure for malicious purposes
+* Interfere with other servers' Globaly connections
+
+Security vulnerabilities should be reported responsibly to the Globaly team.
+
+## 13. Suspension or Termination
+
+We reserve the right to limit, suspend, or terminate access to Globaly when reasonably necessary to:
+
+* Enforce these Terms
+* Protect users
+* Protect participating servers
+* Protect the Globaly infrastructure
+* Prevent abuse
+* Comply with legal requirements
+
+Severe abuse may result in immediate restriction without prior warning.
+
+## 14. Disclaimer
+
+Globaly facilitates communication between independent Discord communities.
+
+Globaly does not necessarily endorse messages, opinions, advertisements, servers, or users appearing through the Service.
+
+Participating servers remain independently operated and are responsible for their own communities.
+
+## 15. Limitation of Liability
+
+To the extent permitted by applicable law, Globaly and its operators are not responsible for indirect losses or damages arising from:
+
+* User-generated content
+* Third-party Discord servers
+* Service interruptions
+* Discord outages
+* Unauthorized third-party activity
+* Loss of messages or configurations
+* Actions taken by independent server moderators
+
+## 16. Changes to the Service
+
+Globaly may modify, remove, replace, or introduce features at any time.
+
+These Terms may also be updated when the Service changes.
+
+Continued use of Globaly after updated Terms become effective indicates acceptance of the revised Terms.
+
+## 17. Discord Relationship
+
+Globaly is an independent service built for Discord.
+
+Unless explicitly stated otherwise, Globaly is not affiliated with, sponsored by, or endorsed by Discord Inc.
+
+Discord trademarks and services belong to their respective owners.
+
+## 18. Contact
+
+Questions, reports, appeals, or concerns related to these Terms may be submitted through the official Globaly support server or other official Globaly contact channels.
